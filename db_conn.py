@@ -12,11 +12,11 @@ db_port = DB_PORT
 
 
 # # local database connection
-# db_host = "127.0.0.1"
-# db_user = "root"
-# db_password = "2252010baby@"
-# db_name = "leo"
-# db_port = 3306
+# db_host = DB_LOCAL_HOST
+# db_user = DB_LOCAL_ROOT
+# db_password = DB_LOCAL_PASSWORD
+# db_name = DB_LOCAL_NAME
+# db_port = DB_LOCAL_PORT
 
 
 
