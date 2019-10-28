@@ -4,11 +4,11 @@ from datetime import date
 
 
 # remote database connection
-db_host = "121.239.206.2"
-db_user = "bacodbuser"
-db_password = "baco1234"
-db_name = "bacoeng"
-db_port = 31057
+db_host = DB_HOST
+db_user = DB_USER
+db_password = DB_PASSWORD
+db_name = DB_NAME
+db_port = DB_PORT
 
 
 # # local database connection
